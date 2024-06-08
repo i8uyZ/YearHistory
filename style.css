@@ -82,5 +82,19 @@
     background-image: url(R_3.jpeg);
     border-style:double ;
     border-radius: 10px;
-   height: 730px;
+     height: 800px;
+}
+
+#answer2{
+
+    display:block;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Teko", sans-serif;
+    font-weight: bold;
+    border-style:double;
+    padding:10px;
+    border-radius: 10px;
+    margin: 100px;
+
 }
